@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sinovation Ventures, AI Institute**
 
-- 🌱 I’m currently learning **Natural Language Processing(NLP)**
+- 🌱 I’m currently learning **Natural Language Processing(NLP)**, **T5 model**
 
 - 💬 Discuss with me about **machine learning, deep learning, multimodal**
 
