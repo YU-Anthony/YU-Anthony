@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing(NLP)**, **T5 model**
 
-- 💬 Discuss with me about **machine learning, deep learning, multimodal**
+- 💬 Discuss with me about **machine learning, deep learning, transfer learning multimodal**
 
 - 📫 How to reach me **zhang.yuanthony@gmail.com**
 
