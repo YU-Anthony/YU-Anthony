@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yu-anthony&label=Profile%20views&color=0e75b6&style=flat" alt="yu-anthony" /> </p>
 
-- 🔭 I’m currently working on **Sinovation Ventures AI Institute & Langboat**
+- 🔭 I’m currently working at **Sinovation Ventures AI Institute & Langboat**
 
 - 🌱 I’m currently learning **Natural Language Processing(NLP)**, **T5 model**
 
