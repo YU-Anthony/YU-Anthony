@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yu Zhang</h1>
-<h3 align="center">An AI Engineer at Sinovation Ventures AI Institute & Langboat</h3>
+<h3 align="center">An Data Platform Intern at Moloco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yu-anthony&label=Profile%20views&color=0e75b6&style=flat" alt="yu-anthony" /> </p>
 
-- 🔭 I’m currently working at **Sinovation Ventures AI Institute & Langboat**
+- 🔭 I’m currently working at **Moloco**
 
-- 🌱 I’m currently learning **Natural Language Processing(NLP)**, **T5 model**
+- 🌱 I’m currently learning **BigTable**, **Data Pipeline**
 
-- 💬 Discuss with me about **machine learning, deep learning, transfer learning multimodal**
+<!-- - 💬 Discuss with me about **machine learning, deep learning, transfer learning multimodal** -->
 
 - 📫 How to reach me **zhang.yuanthony@gmail.com**
 
