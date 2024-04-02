@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yu Zhang</h1>
-<h3 align="center">A Data Platform Intern at Moloco</h3>
+<h3 align="center">A graduate student from UIUC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yu-anthony&label=Profile%20views&color=0e75b6&style=flat" alt="yu-anthony" /> </p>
 
-- 🔭 I’m currently working at **Moloco**
+- 🔭 I’m currently working at healthcare field
 
-- 🌱 I’m currently learning **BigTable**, **Data Pipeline**
+- 🌱 I’m currently learning **Golange**, **Distributed Systems**
 
 <!-- - 💬 Discuss with me about **machine learning, deep learning, transfer learning multimodal** -->
 
-- 📫 How to reach me **zhang.yuanthony@gmail.com**
+- 📫 How to reach me **yzanthony0319@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
